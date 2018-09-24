@@ -1,0 +1,11 @@
+body {background: goldenrod; color: #000480; font-size: 18pt; font-family: 'Noto Serif KR', sans-serif;}
+nav li{display:inline-block;}
+nav li{border: 2px solid black}
+nav li { padding: 10px;
+    margin: 5px;
+    background: white }
+a { color: #000480; text-decoration: turquoise }
+a:hover { color: red }
+.picture { float: left }
+.links{clear: both}
+.article{float: right}
